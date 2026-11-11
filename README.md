@@ -17,13 +17,15 @@ Me interesa el desarrollo full-stack, DevOps y cloud, y la seguridad de la infor
 
 ## Proyectos en Harpa SpA
 
-El código de estos proyectos es privado de Harpa SpA; cada uno tiene un repositorio de presentación con capturas y detalles técnicos.
+El código de estos proyectos es privado de Harpa SpA; cada uno tiene un repositorio de presentación con más detalles técnicos.
 
 | Proyecto | Qué es |
 |---|---|
-| **[Sistema de Gestión Avícola](https://github.com/HaxPG/harpa-sistema-avicola)** | SaaS de 15 módulos para granjas de postura: planteles, producción y tasa de postura, bodega, compras y ventas, con punto de venta y boleta y factura electrónica integradas con el SII. En uso diario en Avícola Las Mariposas (Chillán). |
+| **[Sistema de Gestión Avícola](https://github.com/HaxPG/harpa-sistema-avicola)** | SaaS de 15 módulos para granjas de postura: planteles, producción y tasa de postura, bodega, compras y ventas, con facturación electrónica integrada con el SII. En uso diario en Avícola Las Mariposas (Chillán). |
+| **[POS Harpa](https://github.com/HaxPG/harpa-pos)** | Punto de venta SaaS con cajas, ventas, pedidos y cotizaciones, y boleta y factura electrónica con el SII. Nació como módulo del sistema avícola y hoy es un producto propio. |
 | **[Tienda online RUNE](https://github.com/HaxPG/harpa-runestore)** · [runestore.cl](https://runestore.cl) | E-commerce completo: catálogo y stock, carrito y pago online, despacho con couriers, boleta electrónica SII, cupones, gift cards, devoluciones y panel de administración. |
 | **[Gravitas, estudio jurídico](https://github.com/HaxPG/harpa-gravitas)** · [estudiogravitas.cl](https://estudiogravitas.cl) | Sitio web con panel de administración propio para publicaciones, agenda de consultas y equipo. |
+| **[SGI](https://github.com/HaxPG/harpa-sgi)** | Back-office de Harpa: CRM, suscripciones de los productos SaaS, finanzas, facturación SII, soporte y monitoreo. |
 
 ## Proyectos académicos
 
